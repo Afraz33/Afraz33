@@ -21,7 +21,7 @@
   Hi there, I'm Afraz
  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-   <h3>A Software Engineering student from Pakistan<h3> 👨‍🎓
+   <h3>A Software Engineering student from Pakistan 👨‍🎓<h3> 
 </h2>
 </div>
 
