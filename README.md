@@ -19,6 +19,7 @@
 
 <h2>
   Hi there, I'm Afraz
+  <h3>A Software Engineering student from Pakistan<h3>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 </div>
@@ -27,7 +28,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Softwware Engineer from FAST, NUCES Islamabad.
+I currently pursuing Bachelors in Softwware Engineering from FAST, NUCES Islamabad.
 - :telescope: I’m pursuing web development, contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring web technologies and frameworks.
@@ -40,7 +41,7 @@ I am a Softwware Engineer from FAST, NUCES Islamabad.
 
 ---
 
-### 🕵️ Experitse :
+### 🕵️ Expertise :
 - 🛰️I have experience in building MERN applications.
 - 🚰I have deployed applications through Docker on AWS.
 - 🎛️I have crafted software requirements and performed technical analysis on them.
