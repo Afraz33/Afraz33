@@ -29,13 +29,13 @@
 ---
 
 ### :woman_technologist: About Me :
-I currently pursuing Bachelors in Softwware Engineering from FAST, NUCES Islamabad.
+I am currently pursuing Bachelors in Softwware Engineering from FAST, NUCES Islamabad.
 - :telescope: I’m pursuing web development, contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring web technologies and frameworks.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks Practice.
-- 🤝I'm looking to collaborate on project of web development.
+- 🤝I'm looking to collaborate on projects of web development.
 - 📣:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn/Afraz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afraz03/)
 - 📧Or email me at:  <a href="afraz3301@gmail.com">afraz3301@gmail.com</a>
 
