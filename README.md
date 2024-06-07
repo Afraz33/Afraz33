@@ -37,8 +37,8 @@ I am currently pursuing Bachelors in Softwware Engineering from FAST, NUCES Isla
 - :zap: In my free time, I solve problems on GeeksforGeeks Practice.
 - 🤝I'm looking to collaborate on projects of web development.
 - 📣:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn/Afraz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afraz03/)
-- 📧Or email me at:  <a href="afraz3301@gmail.com">afraz3301@gmail.com</a>
-
+- 📧Email me at:  <a href="afraz3301@gmail.com">afraz3301@gmail.com</a>
+- 💁View my portfolio at: <a href="afraz3301@gmail.com">https://afraz-portfolio.vercel.app</a>
 
 ---
 
