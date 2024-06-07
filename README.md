@@ -11,9 +11,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  <a href="https://twitter.com/AfrazAh_">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+ <a href="https://afraz-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+</a>
 </div>
 
 
@@ -21,7 +21,7 @@
   Hi there, I'm Afraz
  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-   <h3>A Software Engineering student from Pakistan 👨‍🎓<h3> 
+   <h3>A Software Engineer from Pakistan 👨‍🎓<h3> 
 </h2>
 </div>
 
