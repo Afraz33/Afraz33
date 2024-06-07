@@ -30,11 +30,11 @@
 
 ### :woman_technologist: About Me :
 I am currently pursuing Bachelors in Softwware Engineering from FAST, NUCES Islamabad.
+- ☁️ I'm an AWS Certified Cloud Practioner.
 - :telescope: I’m pursuing web development, contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring web technologies and frameworks.
+- :seedling: Exploring web technologies and frameworks, DevOps and Cloud Computing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks Practice.
 - 🤝I'm looking to collaborate on projects of web development.
 - 📣:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn/Afraz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afraz03/)
 - 📧Email me at:  <a href="afraz3301@gmail.com">afraz3301@gmail.com</a>
