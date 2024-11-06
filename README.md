@@ -29,13 +29,13 @@
 ---
 
 ### :woman_technologist: About Me :
-I am currently pursuing Bachelors in Softwware Engineering from FAST, NUCES Islamabad.
+I am a Software Engineer, with bacehlors in Software Engineering from FAST NUCES, Islamabad.
 - ☁️ I'm an AWS Certified Cloud Practioner.
 - :telescope: I’m pursuing web development, contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring web technologies and frameworks, DevOps and Cloud Computing.
 
-- 🤝I'm looking to collaborate on projects of web development.
+- 🤝I'm looking to collaborate on projects of web development and/or cloud computing.
 - 📣:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn/Afraz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afraz03/)
 - 📧Email me at:  <a href="afraz3301@gmail.com">afraz3301@gmail.com</a>
 - 💁View my portfolio at: <a href="afraz3301@gmail.com">https://afraz-portfolio.vercel.app</a>
@@ -44,6 +44,7 @@ I am currently pursuing Bachelors in Softwware Engineering from FAST, NUCES Isla
 
 ### 🕵️ Expertise :
 - 🛰️I have experience in building MERN applications.
+- 🪗I have configured applications on cloud using AWS cdk.
 - 🚰I have deployed applications through Docker on AWS.
 - 🎛️I have crafted software requirements and performed technical analysis on them.
 - :accessibility:I have performed testing (whitebox and blackbox) on desktop application.
