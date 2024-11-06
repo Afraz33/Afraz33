@@ -47,7 +47,7 @@ I am a Software Engineer, with bacehlors in Software Engineering from FAST NUCES
 - 🪗I have configured applications on cloud using AWS cdk.
 - 🚰I have deployed applications through Docker on AWS.
 - 🎛️I have crafted software requirements and performed technical analysis on them.
-- :accessibility:I have performed testing (whitebox and blackbox) on desktop application.
+
   
   
   
